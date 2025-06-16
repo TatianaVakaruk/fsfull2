@@ -8,6 +8,6 @@ export const getOddNumbers = (arr) => {
     return num % 2 === 1;
   });
 };
-export default (a, b) => {
+export const getSum = (a, b) => {
   return a + b;
 };
